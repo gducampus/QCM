@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Quel langage est principalement utilisé pour structurer le contenu sur le web?",
+      "options": ["JavaScript", "CSS", "HTML", "Python"],
+      "answer": "HTML"
+    },
+    {
+      "question": "Quel langage est utilisé pour styliser les pages web?",
+      "options": ["CSS", "Java", "PHP", "SQL"],
+      "answer": "CSS"
+    },
+    {
+      "question": "Quel langage est utilisé pour ajouter de l'interactivité aux pages web?",
+      "options": ["Ruby", "JavaScript", "C#", "Swift"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Quelle bibliothèque JavaScript est principalement utilisée pour simplifier la manipulation du DOM?",
+      "options": ["Vue.js", "Angular", "React", "jQuery"],
+      "answer": "jQuery"
+    },
+    {
+      "question": "Quel langage est souvent utilisé côté serveur pour les applications web?",
+      "options": ["PHP", "HTML", "CSS", "JavaScript"],
+      "answer": "PHP"
+    },
+    {
+      "question": "Quelle est la requête HTTP utilisée pour récupérer des données?",
+      "options": ["POST", "DELETE", "GET", "PUT"],
+      "answer": "GET"
+    },
+    {
+      "question": "Quelle est la requête HTTP utilisée pour envoyer des données pour les stocker?",
+      "options": ["GET", "POST", "DELETE", "OPTIONS"],
+      "answer": "POST"
+    },
+    {
+      "question": "Quel est le format de données couramment utilisé pour les API web?",
+      "options": ["XML", "YAML", "JSON", "HTML"],
+      "answer": "JSON"
+    },
+    {
+      "question": "Quelle technologie permet de créer des applications web monopage?",
+      "options": ["SPA", "MVC", "REST", "GraphQL"],
+      "answer": "SPA"
+    },
+    {
+      "question": "Quelle technologie permet de faire des requêtes à une API avec une structure flexible?",
+      "options": ["REST", "WebSocket", "GraphQL", "OAuth"],
+      "answer": "GraphQL"
+    }
+  ]
+}
